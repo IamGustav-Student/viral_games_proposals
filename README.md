@@ -13,6 +13,7 @@ El objetivo es crear una experiencia viral, ligera y altamente monetizable que g
 
 ## Directorio de Documentación
 - [Actividades de L2 (Base)](l2_activities.md)
+- [NEO-RIFT (The Glitch Zones)](neo_rift.md)
 - [Arquitectura Técnica](architecture.md)
 - [Plan de Monetización](monetization.md)
 - [Hoja de Ruta (Roadmap)](roadmap.md)
