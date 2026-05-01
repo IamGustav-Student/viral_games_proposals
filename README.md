@@ -1,20 +1,24 @@
 # L2 Multiverse: The Meraki Hub
 
 ## Visión del Proyecto
-L2 Multiverse es una plataforma de micro-juegos basada en el universo de Lineage 2. Siguiendo el modelo de Roblox, los usuarios entran a un Lobby Central (Giran Social Hub) desde donde pueden acceder a diversos minijuegos que replican las actividades icónicas del MMORPG original.
+L2 Multiverse es una plataforma de micro-juegos basada en el universo de Lineage 2, reimaginada para la era moderna. Los usuarios entran a un Lobby Central (Giran Social Hub) desde donde acceden a diversos minijuegos con mecánicas adictivas y virales.
 
-El objetivo es crear una experiencia viral, ligera y altamente monetizable que genere ingresos pasivos y activos.
+## Estructura del Proyecto
+El proyecto se organiza en módulos independientes para cada minijuego:
 
-## Características Principales
-- **Lobby Central:** Espacio social 2D/3D ligero para interacción entre jugadores.
-- **Economía Unificada:** Una sola moneda y un solo inventario para todos los minijuegos.
-- **Mecánicas Adictivas:** Juegos basados en el riesgo (Enchant), el esfuerzo (Spoil) y la competencia (Olympiad).
-- **Multiplataforma:** Accesible vía Web y Telegram Mini Apps.
+### 📁 Documentación General
+- [Actividades de L2 (Base)](docs/l2_activities.md)
+- [Arquitectura Técnica](docs/architecture.md)
+- [Plan de Monetización](docs/monetization.md)
+- [Hoja de Ruta (Roadmap)](docs/roadmap.md)
+- [Memoria del Proyecto](docs/memory.md)
 
-## Directorio de Documentación
-- [Actividades de L2 (Base)](l2_activities.md)
-- [NEO-RIFT (The Glitch Zones)](neo_rift.md)
-- [Arquitectura Técnica](architecture.md)
-- [Plan de Monetización](monetization.md)
-- [Hoja de Ruta (Roadmap)](roadmap.md)
-- [Memoria del Proyecto](memory.md)
+### 🎮 Minijuegos
+#### 1. [NEO-RIFT (The Glitch Zones)](minigames/neo_rift/concept.md)
+Un survival roguelike basado en el Dimensional Rift con temática post-apocalíptica.
+- [Concepto y Mecánicas](minigames/neo_rift/concept.md)
+- [Diseño de Assets y Herramientas](minigames/neo_rift/assets_design.md)
+
+---
+## Cómo contribuir
+Sigue las guías en la carpeta `docs` para entender el flujo de trabajo y el stack tecnológico.
